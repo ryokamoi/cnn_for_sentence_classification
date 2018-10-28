@@ -4,8 +4,6 @@ paper:[https://arxiv.org/abs/1408.5882](https://arxiv.org/abs/1408.5882)
 
 This is NOT an original implementation. There may be some minor differences from the original structure.
 
-Results are reported in [my blog](https://ryokamoi.github.io/contents/nlp/cnn_text_classification)
-
 ## Prerequisites
 
  * Python 3.5
